@@ -1,0 +1,1 @@
+statistical analysis using probabilistic programming techniques, such as Monte Carlo simulation to study the effect of outliers on the formulas. The concepts learned here can be applied to any indicator regardless of type, and more importantly many of the formulas and algorithms are based on an SMA or EMA and the "strength" principles used by the RSI, which are delayed formulas.
